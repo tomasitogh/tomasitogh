@@ -44,7 +44,6 @@ I am comfortable owning the full development lifecycle: problem analysis, system
 **Backend**
 
 * Spring Boot
-* Node.js (Next.js full stack)
 * Monolithic Python architectures
 * FastAPI
 
