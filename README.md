@@ -38,8 +38,8 @@ I am comfortable owning the full development lifecycle: problem analysis, system
 
 **Frontend**
 
-* React
-* Next.js
+* PyQt6 and Flet (Python)
+* Next.js (React)
 
 **Backend**
 
@@ -50,6 +50,7 @@ I am comfortable owning the full development lifecycle: problem analysis, system
 **Databases**
 
 * SQL Server
+* DuckDB
 * MySQL
 * PostgreSQL
 
